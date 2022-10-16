@@ -76284,7 +76284,7 @@ s=q}while(true)switch(s){case 0:h="Error"
 q=3
 l=n.d
 l=A.e8(l,l.gbL().bj("users")).bq(0,n.a.e).bj("presentations").bq(0,n.a.d)
-k=A.qX(A.Z(["questionId",a,"created",new A.bz(Date.now(),!1),"correctCount",A.b([0,0,0,0],t.t)],t.N,t.X))
+k=A.qX(A.Z(["questionId",a,"created",new A.bz(Date.now(),!1)],t.N,t.X))
 k.toString
 s=6
 return A.w(l.a.aR(0,k),$async$xt)
